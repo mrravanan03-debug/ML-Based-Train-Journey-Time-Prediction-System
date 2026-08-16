@@ -1,0 +1,13 @@
+train_id,train_name,start_station,end_station,departure_time,arrival_time,distance_km,num_stops
+T101,Rajdhani Express,Delhi,Mumbai,06:00,22:00,1384,8
+T102,Shatabdi Express,Chennai,Bengaluru,06:00,11:00,350,4
+T103,Duronto Express,Kolkata,Delhi,17:00,11:00,1447,5
+T104,Garib Rath,Mumbai,Ahmedabad,07:50,14:40,491,6
+T105,Vande Bharat,Delhi,Varanasi,06:00,14:00,759,4
+T106,Tejas Express,Lucknow,Delhi,06:10,12:25,511,3
+T107,Express Special,Bengaluru,Hyderabad,20:00,06:00,570,10
+T108,Superfast Express,Pune,Nagpur,18:30,07:15,720,12
+T109,Intercity Express,Ahmedabad,Surat,06:40,10:10,230,5
+T110,Jan Shatabdi,Goa,Mumbai,11:30,20:15,580,9
+T110,Jan Shatabdi,Goa,Mumbai,11:30,20:15,580,9
+T111,Local Fast,Delhi,Agra,07:00,,200,6
